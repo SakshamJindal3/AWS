@@ -1,6 +1,6 @@
-#AWS-SES-Example
+# AWS-SES-Example
 
-##Prerequisite
+## Prerequisite
 
 - The user/role must have access for AWS-SES from policy.
 
